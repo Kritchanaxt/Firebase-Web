@@ -1,2 +1,2 @@
 # Firebase-Web
-Learning to use Firebase basic to develop apps It is another good choice for those who want to learn.
+Learning the basics of Firebase for app development is another excellent option for those eager to learn.
